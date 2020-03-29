@@ -1,3 +1,5 @@
+#  repo changed to pong1 and updated with sound folder
+
 # pong
 one of the first video games ever made, where we have a ball bouncing between two paddles.
 Pong is a table tennis sports game featuring simple two-dimensional graphics, manufactured by Atari
